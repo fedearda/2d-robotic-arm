@@ -11,6 +11,7 @@ Simulation of a robotic arm with n-joints. Objective: reach target in max MAX_IT
 
 # Screenshots
 Example with target: {1.5,0.1} and VERBOSITY_LEVEL = INFO
+
 <img width="634" height="619" alt="image" src="https://github.com/user-attachments/assets/2dbf3c8b-9dd4-46ff-aab3-91d198b99cdb" />
 
 <img width="634" height="602" alt="image" src="https://github.com/user-attachments/assets/aabf016b-1be2-4946-8d9f-3badaad01083" />
